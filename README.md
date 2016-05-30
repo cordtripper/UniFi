@@ -1,4 +1,4 @@
 UniFi
 =====
 
-Docker for UniFi 4.x (Ubiquiti Networks)
+Docker for UniFi 5.0.5 RC1 (Ubiquiti Networks)
